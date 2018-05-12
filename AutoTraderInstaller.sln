@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{73393D18-DAC4-11D1-88FC-0000F8064EBB}") = "AutoTraderInstaller", "AutoTraderInstaller.wip", "{EC671223-C413-4D7B-ACDE-767FA0D65DF2}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {EC671223-C413-4D7B-ACDE-767FA0D65DF2}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
